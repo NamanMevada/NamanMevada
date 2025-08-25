@@ -47,9 +47,9 @@ Currently polishing skills in **React.js, Bootstrap, and UI/UX Design** with a s
 
 ## 📬 Contact Me  
 
-- 📧 Email: **yourmail@gmail.com**  
-- 🔗 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/naman-mevada-a5778124a/))  
-- 🖥️ [GitHub](https://github.com/namanmevada)  
+- 📧 Email: **namanmevadait@gmail.com*  
+- 🔗 - 🔗 [LinkedIn](https://www.linkedin.com/in/naman-mevada-a5778124a/)
+
 
 ---
 
