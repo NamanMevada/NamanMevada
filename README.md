@@ -1,53 +1,73 @@
+<!-- Profile Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend%20Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-FullStack-green?style=for-the-badge" />
+</p>
+
 # 👋 Hello, I'm Naman Mevada  
 
-Aspiring **Frontend Developer** passionate about building modern, responsive, and user-friendly web applications.  
-Currently polishing skills in **React.js** and exploring **Fullstack Development**.  
+Aspiring Frontend Developer passionate about creating clean, modern, and responsive web applications.  
+Currently polishing skills in **React.js, Bootstrap, and UI/UX Design** with a strong foundation in **C, C++, and SQL**.  
 
 ---
 
-## 🚀 Tech Stack  
-- **Programming Languages:** C, C++  
-- **Frontend:** HTML, CSS, JavaScript, React.js  
-- **Styling:** Tailwind CSS, Bootstrap  
-- **Version Control:** Git, GitHub  
-- **Other Tools:** VS Code, Figma  
+## 🛠️ Tech Stack  
+
+- **Languages:** C, C++, JavaScript (ES6+)  
+- **Frontend:** HTML, CSS, React.js, Bootstrap  
+- **Database:** SQL  
+- **Design Tools:** Figma  
+- **Concepts:** OOP, Responsive Design, UI/UX Basics  
 
 ---
 
 ## 🎓 Education & Learning  
-- Pursuing **Fullstack Development** (MERN)  
-- Building projects in **React.js**  
-- Learning backend basics with **Node.js & Express.js**  
+
+- 🎓 Completed **B.Tech in Information Technology** (2025)  
+  Sankalchand Patel University | CGPA: **7.3**  
+- ✅ Completed **Infosys React.js Certification**  
+- 🌱 Learning **advanced React & Full-Stack basics**  
 
 ---
 
-## ✅ Skills in Action  
-- Built multiple React projects (SPA, CRUD apps, E-commerce UI)  
-- Converted Figma/UI designs into responsive websites  
-- Used Git & GitHub for project collaboration and version control  
+## ⚡ Skills in Action  
+
+- Built **responsive UI projects** using React.js & Bootstrap  
+- Designed **mockups and UI wireframes** in Figma  
+- Practiced **SQL queries** for CRUD operations  
+- Working on **real-world frontend projects** to sharpen skills  
 
 ---
 
 ## 📜 Certification  
-- (Add here if you have any – e.g. freeCodeCamp, Infosys, Udemy, etc.)
+
+- 📘 **Infosys React Developer Certification (Completed)**  
 
 ---
 
 ## 📬 Contact Me  
-- Email: [your-email@gmail.com](mailto:your-email@gmail.com)  
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin)  
+
+- 📧 Email: **yourmail@gmail.com**  
+- 🔗 [LinkedIn](https://www.linkedin.com/)  
+- 🖥️ [GitHub](https://github.com/namanmevada)  
 
 ---
 
-## 🛠️ Tools & Badges  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+## 🏷️ Tools & Badges  
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)  
 
 ---
 
-## 👀 Visitor Count  
-![Visitor Count](https://komarev.com/ghpvc/?username=NamanMevada&color=blue&style=flat)
+## 📊 Visitor Count  
+
+![Visitor Count](https://komarev.com/ghpvc/?username=namanmevada&style=flat-square&color=blue)  
+
