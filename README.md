@@ -6,6 +6,7 @@ Currently polishing skills in **React.js** and exploring **Fullstack Development
 ---
 
 ## 🚀 Tech Stack  
+- **Programming Languages:** C, C++  
 - **Frontend:** HTML, CSS, JavaScript, React.js  
 - **Styling:** Tailwind CSS, Bootstrap  
 - **Version Control:** Git, GitHub  
